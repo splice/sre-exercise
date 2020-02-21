@@ -18,6 +18,8 @@ Nice to have:
 
 For this, please use the honor method in your time spent - we look for 2-3 hours for this, respecting your time and supporting work/life balance, your commitments to things other than interviewing. <3
 
-Have fun, and good luck!
+Once completed, please email the solution over to brenna.flood at splice.com.
+
+Have fun, and good luck! 
 
 Kelly, Jerius, and Brenna.
