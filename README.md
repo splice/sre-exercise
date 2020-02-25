@@ -9,6 +9,7 @@ We want to see your creativity, but we have a few constraints for the exercise:
 - Use of Security Groups
 - Uses containers
 - Terraform Use to Reproduce your work  
+- Use of Jenkinsfile so that we can build and deploy your solution. If you're looking for a Jenkinsfile validator, one exists via https://job-dsl.herokuapp.com/)
 - Repo documented with a README.md file 
 
 Nice to have: 
