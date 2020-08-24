@@ -8,19 +8,20 @@ We want to see your creativity, but we have a few constraints for the exercise:
   - Round robin or other demonstrated configuration
 - Use of Security Groups
 - Uses containers
-- Terraform Use to Reproduce your work  
-- Use of Jenkinsfile so that we can build and deploy your solution. If you're looking for a Jenkinsfile validator, one exists via https://job-dsl.herokuapp.com/)
+- Use Terraform to Reproduce your work  
 - Repo documented with a README.md file 
+- Document the general approach you'd use to incorporate this into CI/CD
 
 Nice to have: 
-
 - Logs routed to Cloudwatch
 - Documentation on approach to shipping updates to the solution with minimal / no downtime
 
 For this, please use the honor method in your time spent - we look for 2-3 hours for this, respecting your time and supporting work/life balance, your commitments to things other than interviewing. <3
 
+If we move forward with you to the next step in the interview process, we will be looking to meet with you to discuss your solution. We are curious about how you would scale the solution, have the solution be included in CI/CD, possible refactor work, and other related questions.
+
 Once completed, please email the solution over to brenna.flood at splice.com.
 
 Have fun, and good luck! 
 
-Kelly, Jerius, and Brenna.
+Kelly, Jerius, Chris, and Brenna.
