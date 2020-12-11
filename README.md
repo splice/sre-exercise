@@ -20,8 +20,8 @@ For this, please use the honor method in your time spent - we look for 2-3 hours
 
 If we move forward with you to the next step in the interview process, we will be looking to meet with you to discuss your solution. We are curious about how you would scale the solution, have the solution be included in CI/CD, possible refactor work, and other related questions.
 
-Once completed, please email the solution over to brenna.flood at splice.com.
+Once completed, please email the solution over to kelly at splice.com.
 
 Have fun, and good luck! 
 
-Kelly, Jerius, Chris, and Brenna.
+Jerius, Chris, Ben and Kelly.
