@@ -1,27 +1,18 @@
-# sre-take-home
+# SRE Exercise
 
-Your mission: To stand up and have a publicly-hosted end point available on port 8080 that we can access and get 200 response!
+Thank you for applying to join the Splice SRE team!
 
-We want to see your creativity, but we have a few constraints for the exercise:
-
-- Use of load balancer 
-  - Round robin or other demonstrated configuration
-- Use of Security Groups
+To serve as a springboard for discussion when we meet with you in real-time, we would you to think through/plan out an approach to a scenario that we can talk through together with you. Your mission: to run a simple, publicly-hosted HTTP service! We have a few details and constraints that we’d like you to be prepared to speak to:
+- Use of load balancer
+- Use of security groups
 - Uses containers
-- Use Terraform to Reproduce your work  
-- Repo documented with a README.md file 
-- Document the general approach you'd use to incorporate this into CI/CD
+- Use of Terraform to reproduce your work
+- Logging and monitoring
+- Documentation around your approach
+- Incorporation into CI/CD
+- Approach to shipping updates to the solution with minimal / no downtime
 
-Nice to have: 
-- Logs routed to Cloudwatch
-- Documentation on approach to shipping updates to the solution with minimal / no downtime
+We want to get an understanding of your experience and your creativity, discuss possible alternative approaches to some of these areas, the related tradeoffs, and what areas might be really easy and what errors might be challenging.
 
-For this, please use the honor method in your time spent - we look for 2-3 hours for this, respecting your time and supporting work/life balance, your commitments to things other than interviewing. <3
-
-If we move forward with you to the next step in the interview process, we will be looking to meet with you to discuss your solution. We are curious about how you would scale the solution, have the solution be included in CI/CD, possible refactor work, and other related questions.
-
-Once completed, please email the solution over to kelly.dunn at splice.com.
-
-Have fun, and good luck! 
-
+We look forward to talking through this with you!
 Jerius, Chris, Ben and Kelly.
