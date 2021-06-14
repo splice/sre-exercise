@@ -15,4 +15,4 @@ To serve as a springboard for discussion when we meet with you in real-time, we 
 We want to get an understanding of your experience and your creativity, discuss possible alternative approaches to some of these areas, the related tradeoffs, and what areas might be really easy and what errors might be challenging.
 
 We look forward to talking through this with you!
-Jerius, Chris, Ben and Kelly.
+- Splice SRE
